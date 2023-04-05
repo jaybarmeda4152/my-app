@@ -5,7 +5,7 @@ function App() {
   return (
       <>
          <Navbar title="My App"/>
-         <TextForm/>
+         <TextForm/> {/* Text Form  */}
       </>
 
   );
